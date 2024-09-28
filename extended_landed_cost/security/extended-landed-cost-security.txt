@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_stock_landed_cost_new_unit,access_stock_landed_cost_new_unit,model_stock_landed_cost_new_unit,stock.group_stock_manager,1,1,1,1
